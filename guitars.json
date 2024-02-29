@@ -6,7 +6,7 @@
         "price": 799.99,
         "cutaway": true,
         "releaseDate": "18-07-2018",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/114ce.webp",
         "guitarType": "acoustic",
         "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"] ,
         "series": "SERIES-01"
@@ -18,7 +18,7 @@
         "price": 749.99,
         "cutaway": false,
         "releaseDate": "27-05-2017",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/114e.webp",
         "guitarType": "acoustic",
         "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"],
         "series": "SERIES-01"
@@ -30,7 +30,7 @@
         "price": 999.99,
         "cutaway": true,
         "releaseDate": "10-02-2019",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/212ce.webp",
         "guitarType": "acoustic",
         "materials": ["Sitka Spruce", "Indian Rosewood", "Ebony"],
         "series": "SERIES-02"
@@ -42,7 +42,7 @@
         "price": 2899.99,
         "cutaway": true,
         "releaseDate": "10-05-2019",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/412ce.webp",
         "guitarType": "acoutstic",
         "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
         "series": "SERIES-03"
@@ -54,7 +54,7 @@
         "price": 3899.99,
         "cutaway": true,
         "releaseDate": "12-06-2020",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/814ce.webp",
         "guitarType": "acoustic",
         "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
         "series": "SERIES-04" 
@@ -66,7 +66,7 @@
         "price": 3899.99,
         "cutaway": true,
         "releaseDate": "12-06-2020",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/814ceN.webp",
         "guitarType": "classical",
         "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
         "series": "SERIES-04"
@@ -78,7 +78,7 @@
         "price": 399.99,
         "cutaway": false,
         "releaseDate": "20-07-2021",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/Baby%20Mahogany%20BT2.webp",
         "guitarType": "acoustic",
         "materials": ["Tropical Mahogony", "Layered Sapele", "West African Crelicam Ebony"],
         "series": "SERIES-05"
@@ -90,7 +90,7 @@
         "price": 399.99,
         "cutaway": false,
         "releaseDate": "20-07-2021",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/bbt.webp",
         "guitarType": "acoustic",
         "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"],
         "series": "SERIES-05" 
@@ -102,7 +102,7 @@
         "price": 8999.99,
         "cutaway": true,
         "releaseDate": "17-07-2023",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/PS14ce%20Honduran%20Rosewood.webp",
         "guitarType": "acoustic",
         "materials": ["Honduran Rosewood", "Sinker Redwood", "West African Crelicam Ebony"],
         "series": "SERIES-06" 
@@ -114,7 +114,7 @@
         "price": 499.99,
         "cutaway": false,
         "releaseDate": "17-08-2023",
-        "image": ,
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/GS%20Mini%20Mahogany.webp",
         "guitarType": "acoustic",
         "materials": ["Tropical Mahogony", "Layered Sapele", "West African Crelicam Ebony"],
         "series": "SERIES-05" 

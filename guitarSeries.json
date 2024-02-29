@@ -1,10 +1,44 @@
 [
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "materials": ,
-        "amount": ,
-        "firstAppearance":
+        "id": "SERIES-01",
+        "name": "series-100",
+        "amount": 200,
+        "firstAppearance": 2018,
+        "creator": "Max Danny"
+    },
+    {
+        "id": "SERIES-02",
+        "name": "series-200",
+        "amount": 500,
+        "firstAppearance": 2019,
+        "creator": "John Wick"
+    },
+    {
+        "id": "SERIES-03",
+        "name": "series-400",
+        "amount": 50,
+        "firstAppearance": 2019,
+        "creator": "Simon Says"
+    },
+    {
+        "id": "SERIES-04",
+        "name": "series-800",
+        "amount": 50,
+        "firstAppearance": 2020,
+        "creator": "Lenny Who"
+    },
+    {
+        "id": "SERIES-05",
+        "name": "Mini series",
+        "amount": 1000,
+        "firstAppearance": 2020,
+        "creator": "Lenny Who"
+    },
+    {
+        "id": "SERIES-06",
+        "name": "series-PS",
+        "amount": 10,
+        "firstAppearance": 2020,
+        "creator": "Max Semen"
     }
 ]
