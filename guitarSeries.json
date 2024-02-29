@@ -31,14 +31,14 @@
         "id": "SERIES-05",
         "name": "Mini series",
         "amount": 1000,
-        "firstAppearance": 2020,
+        "firstAppearance": 2021,
         "creator": "Lenny Who"
     },
     {
         "id": "SERIES-06",
         "name": "series-PS",
         "amount": 10,
-        "firstAppearance": 2020,
+        "firstAppearance": 2023,
         "creator": "Max Semen"
     }
 ]
