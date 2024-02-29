@@ -1,122 +1,122 @@
 [
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "ALAN-01",
+        "name": "Alan 114ce",
+        "description": "De Alan 114ce is cutaway-versie van 114 en is opgebouwd uit layered walnut met een sitka spruce top.",
+        "price": 799.99,
+        "cutaway": true,
+        "releaseDate": "18-07-2018",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"] ,
+        "series": "SERIES-01"
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "ALAN-02",
+        "name": "Alan 114e",
+        "description": "De Alan 114e is een hoogwaardige akoestische gitaar uit de Alan 100 Series.",
+        "price": 749.99,
+        "cutaway": false,
+        "releaseDate": "27-05-2017",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"],
+        "series": "SERIES-01"
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "ALAN-03",
+        "name": "Alan 212ce",
+        "description": "De Taylor 212ce, een model uit de Taylor 200 Series, biedt een hoogwaardige akoestische ervaring.",
+        "price": 999.99,
+        "cutaway": true,
+        "releaseDate": "10-02-2019",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Sitka Spruce", "Indian Rosewood", "Ebony"],
+        "series": "SERIES-02"
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "ALAN-04",
+        "name": "Alan 412ce",
+        "description": "De klassieke houtcombinatie van Indian Rosewood en Sitka Spruce levert een weelderig boventoonprofiel met heldere hoge tonen en een rijke low end",
+        "price": 2899.99,
+        "cutaway": true,
+        "releaseDate": "10-05-2019",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoutstic",
+        "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
+        "series": "SERIES-03"
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "ALAN-05",
+        "name": "Alan 814ce",
+        "description": "De Alan 814ce is het vlaggenschip van de 800 Series en staat bekend om zijn superieure klank en vakmanschap.",
+        "price": 3899.99,
+        "cutaway": true,
+        "releaseDate": "12-06-2020",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
+        "series": "SERIES-04" 
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "Alan-06",
+        "name": "Alan 814ceN",
+        "description": "De Alan 814ceN is de nylon versie van de 814ce. Met een massief Sitka Spruce bovenblad, massieve Indian Rosewood body.",
+        "price": 3899.99,
+        "cutaway": true,
+        "releaseDate": "12-06-2020",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "classical",
+        "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
+        "series": "SERIES-04"
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "Alan-07",
+        "name": "Alan Baby Mahogony",
+        "description": "De Alan Baby Mahogany is een compacte akoestische gitaar met een opvallend warme klank en draagbaarheid.",
+        "price": 399.99,
+        "cutaway": false,
+        "releaseDate": "20-07-2021",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Tropical Mahogony", "Layered Sapele", "West African Crelicam Ebony"],
+        "series": "SERIES-05"
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "Alan-08",
+        "name": "Alan Big Baby",
+        "description": "De Alan BB is een krachtige en draagbare akoestische gitaar.",
+        "price": 399.99,
+        "cutaway": false,
+        "releaseDate": "20-07-2021",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"],
+        "series": "SERIES-05" 
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "ALAN-09",
+        "name": "Alan PS14ce",
+        "description": "De Alan PS14ce is een meesterwerk van vakmanschap en klank.",
+        "price": 8999.99,
+        "cutaway": true,
+        "releaseDate": "17-07-2023",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Honduran Rosewood", "Sinker Redwood", "West African Crelicam Ebony"],
+        "series": "SERIES-06" 
     },
     {
-        "id": ,
-        "name": ,
-        "description": ,
-        "price": ,
-        "cutaway": ,
-        "releaseDate": ,
+        "id": "ALAN-10",
+        "name": "Alan GS Mini Mahogany",
+        "description": "De Alan GS Mini Mahogany biedt een opvallend rijke klank in een compact formaat.",
+        "price": 499.99,
+        "cutaway": false,
+        "releaseDate": "17-08-2023",
         "image": ,
-        "guitarType": ,
-        ""
-        "series": 
+        "guitarType": "acoustic",
+        "materials": ["Tropical Mahogony", "Layered Sapele", "West African Crelicam Ebony"],
+        "series": "SERIES-05" 
     }
 ]
