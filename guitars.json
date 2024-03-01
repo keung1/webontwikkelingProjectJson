@@ -7,7 +7,7 @@
         "cutaway": true,
         "releaseDate": "18-07-2018",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/114ce.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"] ,
         "series": "SERIES-01"
     },
@@ -19,7 +19,7 @@
         "cutaway": false,
         "releaseDate": "27-05-2017",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/114e.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"],
         "series": "SERIES-01"
     },
@@ -31,7 +31,7 @@
         "cutaway": true,
         "releaseDate": "10-02-2019",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/212ce.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Sitka Spruce", "Indian Rosewood", "Ebony"],
         "series": "SERIES-02"
     },
@@ -43,7 +43,7 @@
         "cutaway": true,
         "releaseDate": "10-05-2019",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/412ce.webp",
-        "guitarType": "acoutstic",
+        "guitarType": "akoestisch",
         "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
         "series": "SERIES-03"
     },
@@ -55,7 +55,7 @@
         "cutaway": true,
         "releaseDate": "12-06-2020",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/814ce.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
         "series": "SERIES-04" 
     },
@@ -67,7 +67,7 @@
         "cutaway": true,
         "releaseDate": "12-06-2020",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/814ceN.webp",
-        "guitarType": "classical",
+        "guitarType": "klassiek",
         "materials": ["Sitka Spruce", "Indian Rosewood", "West African Crelicam Ebony"],
         "series": "SERIES-04"
     },
@@ -79,7 +79,7 @@
         "cutaway": false,
         "releaseDate": "20-07-2021",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/Baby%20Mahogany%20BT2.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Tropical Mahogony", "Layered Sapele", "West African Crelicam Ebony"],
         "series": "SERIES-05"
     },
@@ -91,7 +91,7 @@
         "cutaway": false,
         "releaseDate": "20-07-2021",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/bbt.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Sitka Spruce", "Layered Walnut", "Ebony"],
         "series": "SERIES-05" 
     },
@@ -103,7 +103,7 @@
         "cutaway": true,
         "releaseDate": "17-07-2023",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/PS14ce%20Honduran%20Rosewood.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Honduran Rosewood", "Sinker Redwood", "West African Crelicam Ebony"],
         "series": "SERIES-06" 
     },
@@ -115,7 +115,7 @@
         "cutaway": false,
         "releaseDate": "17-08-2023",
         "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/GS%20Mini%20Mahogany.webp",
-        "guitarType": "acoustic",
+        "guitarType": "akoestisch",
         "materials": ["Tropical Mahogony", "Layered Sapele", "West African Crelicam Ebony"],
         "series": "SERIES-05" 
     }
