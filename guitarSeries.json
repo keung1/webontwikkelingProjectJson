@@ -4,35 +4,40 @@
         "name": "series-100",
         "amount": 200,
         "firstAppearance": 2018,
-        "creator": "Max Danny"
+        "creator": "Max Danny",
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/series-100.webp"
     },
     {
         "id": "SERIES-02",
         "name": "series-200",
         "amount": 500,
         "firstAppearance": 2019,
-        "creator": "John Wick"
+        "creator": "John Wick",
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/series-200.webp"
     },
     {
         "id": "SERIES-03",
         "name": "series-400",
         "amount": 50,
         "firstAppearance": 2019,
-        "creator": "Simon Says"
+        "creator": "Simon Says",
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/series-400.webp"
     },
     {
         "id": "SERIES-04",
         "name": "series-800",
         "amount": 50,
         "firstAppearance": 2020,
-        "creator": "Lenny Who"
+        "creator": "Lenny Who",
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/series-800.webp"
     },
     {
         "id": "SERIES-05",
         "name": "Mini series",
         "amount": 1000,
         "firstAppearance": 2021,
-        "creator": "Lenny Who"
+        "creator": "Lenny Who",
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/series-mini.webp"
     },
     {
         "id": "SERIES-06",
@@ -40,5 +45,6 @@
         "amount": 10,
         "firstAppearance": 2023,
         "creator": "Max Semen"
+        "image": "https://raw.githubusercontent.com/keung1/webontwikkelingProjectJson/master/images/series-PS.webp"
     }
 ]
